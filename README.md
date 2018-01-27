@@ -1,3 +1,4 @@
 # JuegoPlataformasGamemaker
 Autor: **Omar Marcos Julián**
-Pequeño juego de plataformas elaborado con Gamemaker.
+
+Pequeño juego de plataformas con tres niveles elaborado con Gamemaker.
